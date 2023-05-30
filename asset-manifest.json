@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calculator_With-Toolkit/static/css/main.073c9b0a.css",
+    "main.js": "/Calculator_With-Toolkit/static/js/main.157db7d2.js",
+    "index.html": "/Calculator_With-Toolkit/index.html",
+    "main.073c9b0a.css.map": "/Calculator_With-Toolkit/static/css/main.073c9b0a.css.map",
+    "main.157db7d2.js.map": "/Calculator_With-Toolkit/static/js/main.157db7d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.157db7d2.js"
+  ]
+}
